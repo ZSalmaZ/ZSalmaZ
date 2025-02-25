@@ -15,16 +15,17 @@
 
 ### 📊 GitHub Stats:
 <div align="left">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZSalmaZ&theme=tokyonight&show_icons=true" height=150 />
-  </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSalmaZ&langs_count=5&theme=tokyonight" height=150 />
-  </a>
-  <br>
-  <a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZSalmaZ&theme=tokyonight&show_icons=true" height=150 />
+</a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSalmaZ&langs_count=5&theme=tokyonight" height=150 />
+</a>
+<br>
+<a>
   <img src="https://activity-graph.herokuapp.com/graph?username=ZSalmaZ&theme=rogue" width=50% height=200 alt="graph"/>
-  </a>
+</a>
+</div>
 </div>
 
 ### 🌍 Connect With Me:
