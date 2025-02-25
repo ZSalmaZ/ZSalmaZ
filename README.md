@@ -23,7 +23,7 @@
   </a>
   <br>
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZSalmaZ&theme=tokyonight" height=150 />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?username=ZSalmaZ&theme=tokyonight" height=150 />
   </a>
 </div>
 
